@@ -1,0 +1,69 @@
+
+body
+{
+  background:url(images/nature-bg.jpg);
+     width: 100%;
+     height: 2100px;  
+}
+
+#dive
+{
+    height: 500px;
+    width: 1000px;
+    background-color: aliceblue;
+    margin-top: 250px;
+    margin-left: 150px;
+    border: 2px solid violet;
+}
+
+#dive img
+{
+    
+   margin-left: 100px;
+    margin-top: 50px;
+    border: 2px solid thistle;
+    
+}
+
+#dive_info
+{
+      border: 2px solid violet; 
+    height: 1050px;
+    width: 1000px;
+    background-color: aliceblue;
+    margin-left: 150px;
+}
+
+#vishal p
+{
+     font-family: sans-serif;
+    margin-left: 90px;
+    font-size:30px; 
+    color: slateblue;
+    
+}
+
+#vishal li
+{
+    
+    font-family: serif;
+    margin-left: 50px;
+    font-size: 20px;
+    color:crimson;
+}
+
+#vishal b
+{
+    font-family:cursive;
+    margin-left: 70px;
+    color: blue;
+    font-size: 20px;
+}
+
+#vishal i
+{
+    font-family:cursive;
+    margin-left: 80px;
+    color: darkred;
+    font-size: 25px;
+}

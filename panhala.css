@@ -1,0 +1,86 @@
+
+body
+{
+     background:url(images/nature-bg.jpg);
+     width: 100%;
+     height: 2100px;
+}
+#wrapper_left
+{
+    display: inline-block;
+    background-color: beige;
+}
+
+#wrapper_right
+{
+    font-size: 90px ;
+   
+    font-family: algerian;
+   
+    float:right;
+    margin-right: 60px;
+}
+#pan
+{
+    height: 500px;
+    width: 1000px;
+    background-color: aliceblue;
+    margin-top: 250px;
+    margin-left: 150px;
+    border: 2px solid gold;
+    
+}
+
+#pan img
+{
+    
+   margin-left: 100px;
+    margin-top: 50px;
+    border: 2px solid grey;
+    
+}
+
+#pan_info
+{
+      border: 2px solid gold; 
+    height: 1050px;
+    width: 1000px;
+    background-color: aliceblue;
+    margin-left: 150px;
+}
+
+
+
+#bhavesh p
+{
+     font-family: sans-serif;
+    margin-left: 90px;
+    font-size:30px; 
+    color: slateblue;
+    
+}
+
+#bhavesh li
+{
+    
+    font-family: serif;
+    margin-left: 50px;
+    font-size: 20px;
+    color:crimson;
+}
+
+#bhavesh b
+{
+    font-family:cursive;
+    margin-left: 70px;
+    color: blue;
+    font-size: 20px;
+}
+
+#bhavesh i
+{
+    font-family:cursive;
+    margin-left: 80px;
+    color: darkred;
+    font-size: 25px;
+}

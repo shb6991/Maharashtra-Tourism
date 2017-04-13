@@ -1,0 +1,72 @@
+
+body
+{
+     background:url(images/nature-bg.jpg);
+     width: 100%;
+     height: 2100px;
+}
+
+#raigad
+{
+    height: 500px;
+    width: 1000px;
+    background-color: aliceblue;
+    margin-top: 250px;
+    margin-left: 150px;
+    border: 2px solid orange;
+    
+}
+
+#raigad img
+{
+    
+   margin-left: 100px;
+    margin-top: 50px;
+    border: 2px solid pink;
+    
+}
+
+#raigad_info
+{
+      border: 2px solid orange; 
+    height: 1050px;
+    width: 1000px;
+    background-color: aliceblue;
+    margin-left: 150px;
+}
+
+
+
+#bhavesh p
+{
+     font-family: sans-serif;
+    margin-left: 90px;
+    font-size:30px; 
+    color: slateblue;
+    
+}
+
+#bhavesh li
+{
+    
+    font-family: serif;
+    margin-left: 50px;
+    font-size: 20px;
+    color:crimson;
+}
+
+#bhavesh b
+{
+    font-family:cursive;
+    margin-left: 70px;
+    color: blue;
+    font-size: 20px;
+}
+
+#bhavesh i
+{
+    font-family:cursive;
+    margin-left: 80px;
+    color: darkred;
+    font-size: 25px;
+}

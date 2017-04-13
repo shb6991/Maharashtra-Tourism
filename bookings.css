@@ -1,0 +1,25 @@
+
+body
+{
+  background:url(images/nature-bg.jpg);
+     width: 100%;
+     height: 1200px;  
+}
+
+#booking
+{
+    height: 600px;
+    width: 1000px;
+    background-color: aliceblue;
+    margin-top: 250px;
+    margin-left: 150px;
+    border: 2px solid pink;
+    font-family: algerian;
+    color: dimgray;
+}
+
+#book font
+{
+margin-top: 20px
+    
+}
